@@ -1,10 +1,10 @@
 {
-    "title": "KANJIDIC [2025-239]",
+    "title": "KANJIDIC_Viet [2025-239]",
     "format": 3,
     "revision": "kanjidic2.2025-239",
     "sequenced": false,
-    "author": "yomitan-import",
-    "url": "https://github.com/themoeway/yomitan-import",
+    "author": "hoang_dep_trai",
+    "url": "https://github.com/hoangdang1357/kanji_dic_viet_and_eng",
     "description": "",
     "attribution": "This publication has included material from the JMdict (EDICT, etc.) dictionary files in accordance with the licence provisions of the Electronic Dictionaries Research Group. See http://www.edrdg.org/",
     "isUpdatable": true,
